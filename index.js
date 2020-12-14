@@ -13,17 +13,10 @@ const axios = require('axios').default;
 
 md.use(mdEmoji);
 
-const BLOG_HOST = `https://peterwu789.com/`;
-
 /* README Sections */
-const introTitle = generateTitle(
-    2,
-    `Hey :wave:, I'm ${generateLink('Stanley', 'https://peterwu789.com/')}`
-);
-const introDescription = `I'm currently a web application engineering **${generateLink(
-    '@kaios',
-    'https://www.kaiostech.com/'
-)}** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!.`;
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Peter', 'https://peterwu789.com/')}`);
+
+const introDescription = `I'm currently a web application engineering **${generateLink('@kaios', 'https://www.kaiostech.com/')}** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!`;
 
 const badgeConfigs = [
     {
@@ -59,8 +52,7 @@ const factsConfigs = [
     `👾 I’m currently working on [KaiOS](https://github.com/kaiostech).`,
     `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
     `🤔 Learning and trying to develop any application within my knowledge.`,
-    `💬 Ping me about **react, koa, security, and cloud stuff**.`,
-    `📙 Check out my [resume](https://peterwu789.com/static/media/resume_5.cde6f6c3.pdf).`,
+    `📙 Check out my [resume](https://peterwu789.com/static/media/resume_5.cde6f6c3.pdf)READCnev👨‍🔧.`,
     `👨‍💻 Most of my projects are available on [Github](https://github.com/wulaiyin789).`,
     `🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。`
 ];
@@ -144,51 +136,17 @@ const toolsConfig = [
 ];
 
 
-
 const styled = `
-    <style>
-        * {
-            padding: 0;
-            margin: 0;
-            box-sizing: border-box;
-        }
-
-        .container {
-            font-family: Arial, Helvetica, sans-serif;
-            padding: 20px;
-            width: 600px;
-            background-color: white;
-            border: 1px solid rgba(0, 0, 0, 0.2);
-            border-radius: 10px;
-        }
-        .container h3 {
-            font-size: 19px;
-            margin-bottom: 5px;
-            font-weight: 500;
-            font-style: oblique;
-        }
-        .container h3::before {
-            content: open-quote;
-            font-size: 25px;
-        }
-        .container h3::after {
-            content: close-quote;
-            vertical-align: sub;
-            font-size: 25px;
-        }
-        .container p {
-            font-style: italic;
-            padding: 5px;
-            text-align: right;
-            color: rgba(0,0,0,0.6)
-        }
-    </style>
-
     <div class="container">
         <h3> _**{%QUOTE%}**_</h3>
         <p>- _**{%AUTHOR%}**_</p>
     </div>
 `;
+
+
+const template = fs.readFileSync(`${__dirname}/TEMPLATE.md`, 'utf-8');
+
+fs.writeFileSync('README.md', template);
 
 const readme = fs.readFileSync(`${__dirname}/README.md`, 'utf-8');
 
