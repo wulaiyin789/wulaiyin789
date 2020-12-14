@@ -18,8 +18,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <li>
 <p>🤔 Learning and trying to develop any application within my knowledge.</p>
 </li>
-<li>
-<p>💬 Ping me about <strong>react, koa, security, and cloud stuff</strong>.</p>
 </li>
 <li>
 <p>📙 Check out my <a href="https://peterwu789.com/static/media/resume_5.cde6f6c3.pdf">resume</a>.</p>
