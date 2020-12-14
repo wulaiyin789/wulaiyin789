@@ -1,0 +1,25 @@
+{
+  "name": "peterwu789",
+  "version": "1.0.0",
+  "description": "😼 Peter Wu Personal Profile",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wulaiyin789/wulaiyin789.git"
+  },
+  "author": "Peter Wu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wulaiyin789/wulaiyin789/issues"
+  },
+  "homepage": "https://github.com/wulaiyin789/wulaiyin789#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "markdown-it": "^11.0.0",
+    "markdown-it-emoji": "^1.4.0"
+  }
+}
