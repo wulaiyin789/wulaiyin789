@@ -32,7 +32,7 @@ jobs:
         run: |-
           git add .
           git diff
-          git config --global user.email "wulaiyin789@gmail.com"
+          git config --global user.email "peterwlyau@gmail.com"
           git config --global user.name "Peter Wu"
           git commit -m ":sparkles: feat(README.md): Updated README" || echo "No changes detected"
           git push
