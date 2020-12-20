@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.</h4>
-    <p>- Henry David Thoreau</p>
+    <h4> Man needs his difficulties because they are necessary to enjoy success.</h4>
+    <p>- A. P. J. Abdul Kalam</p>
 </div>
