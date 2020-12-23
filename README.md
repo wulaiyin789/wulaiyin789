@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You either walk inside your story and own it or you stand outside your story and hustle for your worthiness.</h4>
-    <p>- Brene Brown</p>
+    <h4> A successful man is one who can lay a firm foundation with the bricks that others throw at him.</h4>
+    <p>- Sidney Greenberg</p>
 </div>
