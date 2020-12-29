@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you cannot do great things, do small things in a great way.</h4>
-    <p>- Napoleon Hill</p>
+    <h4> Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.</h4>
+    <p>- Christiane Northrup</p>
 </div>
