@@ -52,7 +52,7 @@ const factsConfigs = [
     `👾 I’m currently working on [KaiOS](https://github.com/kaiostech).`,
     `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
     `🤔 Learning and trying to develop any application within my knowledge.`,
-    `📙 Check out my [resume](https://peterwu789.com/static/media/resume_5.cde6f6c3.pdf)READCnev👨‍🔧.`,
+    `📙 Check out my [resume](https://peterwu789.com/static/media/resume_6.d0d0b8fe.pdf)READCnev👨‍🔧.`,
     `👨‍💻 Most of my projects are available on [Github](https://github.com/wulaiyin789).`,
     `🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。`
 ];
