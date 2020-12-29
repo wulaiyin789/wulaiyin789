@@ -20,7 +20,7 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 </li>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/static/media/resume_5.cde6f6c3.pdf">resume</a>.</p>
+<p>📙 Check out my <a href="https://peterwu789.com/static/media/resume_6.d0d0b8fe.pdf">resume</a>.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
