@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'</h4>
-    <p>- Mohamad Ali</p>
+    <h4> Win any way as long as you can get away with it. Nice guys finish last.</h4>
+    <p>- Leo Durocher</p>
 </div>
