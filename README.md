@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Those who know how to win are much more numerous than those who know how to make proper use of their victories</h4>
-    <p>- Polybius</p>
+    <h4> You make a living by what you earn; you make a life by what you give.</h4>
+    <p>- Winston Churchill</p>
 </div>
