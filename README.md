@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Stop complaining. Start creating.</h4>
-    <p>- Dale Patridge</p>
+    <h4> Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.</h4>
+    <p>- Matthew Keith Groves</p>
 </div>
