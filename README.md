@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you like what you do, and you're lucky enough to be good at it, do it for that reason.</h4>
-    <p>- Phil Grimshaw</p>
+    <h4> Beyond a certain point there is no return. This point has to be reached.</h4>
+    <p>- Franz Kafka</p>
 </div>
