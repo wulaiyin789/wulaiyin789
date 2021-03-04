@@ -51,6 +51,9 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</h4>
-    <p>- Jack Ma</p>
+    <h4> One does not accumulate but eliminate.
+It is not daily increase but daily
+decrease. The height of cultivation
+always runs to simplicity.</h4>
+    <p>- Bruce Lee</p>
 </div>
