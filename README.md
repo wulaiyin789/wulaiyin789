@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.</h4>
-    <p>- Sheryl Sandberg</p>
+    <h4> Remove the temptation to settle for anything short of what you deserve.</h4>
+    <p>- Lorii Myers</p>
 </div>
