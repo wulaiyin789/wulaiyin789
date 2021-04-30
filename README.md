@@ -1,13 +1,13 @@
+<pre><code>    ## Hey :wave:, I'm [Peter](https://peterwu789.com/)
 
-## Hey :wave:, I'm [Peter](https://peterwu789.com/)
+    I'm currently a web application engineering **[@kaios](https://www.kaiostech.com/)** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!
 
-I'm currently a web application engineering **[@kaios](https://www.kaiostech.com/)** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!
+     [![Website Badge](https://img.shields.io/badge/-peterwu789.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Google&amp;link=https://peterwu789.com/)](https://peterwu789.com/) [![LinkedIn Badge](https://img.shields.io/badge/-@peterwu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/peter-wu-5a626614b/)](https://www.linkedin.com/in/peter-wu-5a626614b/) [![Spotify Badge](https://img.shields.io/badge/-@Peter%20Wu-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)](https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)
 
-[![Website Badge](https://img.shields.io/badge/-peterwu789.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Google&amp;link=https://peterwu789.com/)](https://peterwu789.com/) [![LinkedIn Badge](https://img.shields.io/badge/-@peterwu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/peter-wu-5a626614b/)](https://www.linkedin.com/in/peter-wu-5a626614b/) [![Spotify Badge](https://img.shields.io/badge/-@Peter%20Wu-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)](https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)
+    &lt;img align=&quot;right&quot; src=&quot;https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif&quot; /&gt;
 
-<img align="right" src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif" />
-
-## :zap: A Few Fun Facts
+    ## :zap: A Few Fun Facts
+</code></pre>
 <ul>
 <li>
 <p>👾 I’m currently working on <a href="https://github.com/kaiostech">KaiOS</a>.</p>
@@ -18,19 +18,20 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <li>
 <p>🤔 Learning and trying to develop any application within my knowledge.</p>
 </li>
-</li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/static/media/resume_6.d0d0b8fe.pdf">resume</a>.</p>
+<p>📙 Check out my <a href="https://peterwu789.com/static/media/resume_6.d0d0b8fe.pdf">resume</a>READCnev👨‍🔧.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
 </li>
 <li>
 <p>🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。</p>
- 
-## :rocket: Some Tools I Use
+<pre><code> ## :rocket: Some Tools I Use
 
-<p align="left">
+ &lt;p align=&quot;left&quot;&gt;
+</code></pre>
+</li>
+</ul>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
@@ -46,11 +47,13 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
 <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" width="25" height="25" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
-</p>
+<pre><code>    &lt;/p&gt;
 
-<img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
+    &lt;img src=&quot;https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true&quot; alt=&quot;wulaiyin789&quot; /&gt;
 
-<div class="container">
-    <h4> The best way to not feel hopeless is to get up and do something. Don't wait for good things to happen to you. If you go out and make some good things happen, you will fill the world with hope, you will fill yourself with hope.</h4>
-    <p>- Barack Obama</p>
-</div>
+    
+&lt;div class=&quot;container&quot;&gt;
+    &lt;h3&gt; _**{%QUOTE%}**_&lt;/h3&gt;
+    &lt;p&gt;- _**{%AUTHOR%}**_&lt;/p&gt;
+&lt;/div&gt;
+</code></pre>
