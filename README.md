@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.</h4>
-    <p>- Kevin Turner </p>
+    <h4> If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</h4>
+    <p>- Jack Ma</p>
 </div>
