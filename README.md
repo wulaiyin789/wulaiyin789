@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Great ambition is the passion of a great character. Those endowed with it may perform very good or very bad acts. All depends on the principals which direct them.</h4>
-    <p>- Napoleon Bonaparte</p>
+    <h4> A man can suffer to bring a group of people to success, not the other way.</h4>
+    <p>- Ganesh</p>
 </div>
