@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you win, say nothing. When you lose, say less.</h4>
-    <p>- Paul Brown</p>
+    <h4> We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light</h4>
+    <p>- Mary Dunbar</p>
 </div>
