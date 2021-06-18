@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</h4>
-    <p>- Tom Hanks</p>
+    <h4> If we are not stretching, we are not growing. If we are not growing, we are probably not fulfilling our potential. The only person in this room that knows your potential is you.</h4>
+    <p>- Kevin Turner </p>
 </div>
