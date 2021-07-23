@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> People who are crazy enough to think they can change the world, are the ones who do.</h4>
-    <p>- Apple Computers</p>
+    <h4> If you want to test your memory, try to recall what you were worrying about one year ago today.</h4>
+    <p>- E. Joseph Cossman</p>
 </div>
