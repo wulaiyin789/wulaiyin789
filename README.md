@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose.</h4>
-    <p>- Steve Jobs</p>
+    <h4> Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</h4>
+    <p>- William James Moore</p>
 </div>
