@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</h4>
-    <p>- William James Moore</p>
+    <h4> At that point where you have decided to upgrade from aspiration to expectation and have begun to visualize an outcome, something incredibly important has happened, you have committed to the process of change.</h4>
+    <p>- Lorii Myers</p>
 </div>
