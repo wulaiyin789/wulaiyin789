@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There's such a thin line between winning and losing.</h4>
-    <p>- John R. Tunis</p>
+    <h4> Some men see things as they are and say why.. I dream things that never were and say why not.</h4>
+    <p>- George Bernard Shaw</p>
 </div>
