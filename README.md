@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Named must your fear be before banish it you can.</h4>
-    <p>- Yoda</p>
+    <h4> It wasn't raining when Noah built the ark..</h4>
+    <p>- Howard Ruff</p>
 </div>
