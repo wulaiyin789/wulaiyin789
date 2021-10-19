@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.</h4>
-    <p>- Dale Patridge</p>
+    <h4> Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.</h4>
+    <p>- Greg Child</p>
 </div>
