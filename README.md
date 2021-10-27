@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you have dreams it is your responsibility to make them happen.</h4>
-    <p>- Bel Pesce</p>
+    <h4> Stress is like a pulse, if you have it you are alive.</h4>
+    <p>- Steve Maraboli</p>
 </div>
