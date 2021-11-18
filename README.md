@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you want to test your memory, try to recall what you were worrying about one year ago today.</h4>
-    <p>- E. Joseph Cossman</p>
+    <h4> What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!</h4>
+    <p>- Larry Page</p>
 </div>
