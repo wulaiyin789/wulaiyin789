@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't be tempted to break momentum-work through it.</h4>
-    <p>- Lorii Myers</p>
+    <h4> Luck is a dividend of sweat. The more you sweat, the luckier you get</h4>
+    <p>- Ray Kroc</p>
 </div>
