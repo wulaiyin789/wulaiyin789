@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.</h4>
-    <p>- Stephen Richards</p>
+    <h4> Perfection is not attainable, but if we chase perfection we can catch excellence..</h4>
+    <p>- Vince Lombardi</p>
 </div>
