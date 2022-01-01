@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If I work as hard as I can, I wonder how much I can do in a day?</h4>
-    <p>- Ezra Taft Benson</p>
+    <h4> You are very powerful, provided you know how powerful you are.</h4>
+    <p>- Yogi Bhajan</p>
 </div>
