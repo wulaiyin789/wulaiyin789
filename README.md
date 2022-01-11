@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</h4>
-    <p>- Mark Bezos</p>
+    <h4> The free soul is rare, but you know it when you see it - basically because you feel good, very good, when you are near or with them.</h4>
+    <p>- Charles Bukowski</p>
 </div>
