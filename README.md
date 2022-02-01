@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I am an optimist. It does not seem too much use being anything else..</h4>
-    <p>- Winston Churchill</p>
+    <h4> The man who has confidence in himself gains the confidence of others.</h4>
+    <p>- Hasidic Proverb</p>
 </div>
