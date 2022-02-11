@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler.</h4>
-    <p>- Henry David Thoreau</p>
+    <h4> Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</h4>
+    <p>- Zaha Hadid</p>
 </div>
