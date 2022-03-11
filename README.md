@@ -51,6 +51,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.</h4>
-    <p>- John Gardner</p>
+    <h4> Luck is a dividend of sweat. The more you sweat, the luckier you get</h4>
+    <p>- Ray Kroc</p>
 </div>
