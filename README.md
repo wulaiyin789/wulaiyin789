@@ -50,6 +50,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better</h4>
-    <p>- Barbara Pletcher</p>
+    <h4> Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.</h4>
+    <p>- John Muir</p>
 </div>
