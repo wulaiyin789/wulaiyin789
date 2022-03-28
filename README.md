@@ -50,6 +50,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.</h4>
-    <p>-  Daniel Coyle</p>
+    <h4> He who is not courageous enough to take risks will accomplish nothing in life.</h4>
+    <p>- Mohamad Ali</p>
 </div>
