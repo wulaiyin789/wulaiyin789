@@ -50,6 +50,6 @@ I'm currently a web application engineering **[@kaios](https://www.kaiostech.com
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do not be afraid to give up the good for the great.</h4>
-    <p>- Kenny Rogers</p>
+    <h4> Those who know how to win are much more numerous than those who know how to make proper use of their victories</h4>
+    <p>- Polybius</p>
 </div>
