@@ -16,7 +16,7 @@ md.use(mdEmoji);
 /* README Sections */
 const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Peter', 'https://peterwu789.com/')}`);
 
-const introDescription = `I'm currently a web application engineering **${generateLink('@alfred24hk', 'https://www.alfred24.com.hk/en/home')}** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!`;
+const introDescription = `I'm currently a software engineer **${generateLink('@alfred24hk', 'https://www.alfred24.com.hk/en/home')}** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!`;
 
 const badgeConfigs = [
     {
