@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We don't have to do all of it alone. We were never meant to.</h4>
-    <p>- Brene Brown</p>
+    <h4> People who are crazy enough to think they can change the world, are the ones who do.</h4>
+    <p>- Apple Computers</p>
 </div>
