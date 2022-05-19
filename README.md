@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The determination to win is the better part of winning.</h4>
-    <p>- Daisaku Ikeda</p>
+    <h4> Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one.</h4>
+    <p>- Mark Bezos</p>
 </div>
