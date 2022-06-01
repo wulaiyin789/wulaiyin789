@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Regardless of how you feel inside, always try to look like a winner. Even if you are behind, a sustained look of control and confidence can give you a mental edge that results in victory.</h4>
-    <p>- Arthur Ashe</p>
+    <h4> It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.</h4>
+    <p>- Dale Carnegie</p>
 </div>
