@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</h4>
-    <p>- William James Moore</p>
+    <h4> Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.</h4>
+    <p>- Charles F. Kettering</p>
 </div>
