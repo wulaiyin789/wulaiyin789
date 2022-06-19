@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.</h4>
-    <p>- Zaha Hadid</p>
+    <h4> Named must your fear be before banish it you can.</h4>
+    <p>- Yoda</p>
 </div>
