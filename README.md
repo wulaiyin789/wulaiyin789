@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What you do speaks so loudly that I cannot hear what you say.</h4>
-    <p>- Ralph Waldo Emerson</p>
+    <h4> You will never win if you never begin.</h4>
+    <p>- Helen Rowland</p>
 </div>
