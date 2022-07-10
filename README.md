@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You are very powerful, provided you know how powerful you are.</h4>
-    <p>- Yogi Bhajan</p>
+    <h4> Whether you think you can or think you can't, you're right..</h4>
+    <p>- Henry Ford</p>
 </div>
