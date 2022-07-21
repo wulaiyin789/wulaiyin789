@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Never waste your time trying to explain who you are to people who are committed to misunderstanding you.</h4>
-    <p>- Dream Hampton</p>
+    <h4> A quitter never wins and a winner never quits</h4>
+    <p>- Napoleon Hill</p>
 </div>
