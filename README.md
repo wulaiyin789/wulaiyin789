@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Sometimes the bravest and most important thing you can do is just show up.</h4>
-    <p>- Brene Brown</p>
+    <h4> Time to improve is limited. The clock is always on and doesn't care if you don't feel like it. Someone else does and they're passing you by.</h4>
+    <p>- William James Moore</p>
 </div>
