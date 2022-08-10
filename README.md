@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you win, say nothing. When you lose, say less.</h4>
-    <p>- Paul Brown</p>
+    <h4> If I work as hard as I can, I wonder how much I can do in a day?</h4>
+    <p>- Ezra Taft Benson</p>
 </div>
