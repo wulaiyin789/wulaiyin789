@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You make a living by what you earn; you make a life by what you give.</h4>
-    <p>- Winston Churchill</p>
+    <h4> From now on we live in a world where man has walked on the Moon. It's not a miracle; we just decided to go.</h4>
+    <p>- Tom Hanks</p>
 </div>
