@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You must have a positive self perception in order to transcend anything.</h4>
-    <p>- Steve Maraboli</p>
+    <h4> Effort only fully releases its reward after a person refuses to quit.</h4>
+    <p>- Napoleon Hill</p>
 </div>
