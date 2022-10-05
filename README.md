@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe.</h4>
-    <p>- Mohamad Ali</p>
+    <h4> A successful man is one who can lay a firm foundation with the bricks that others throw at him.</h4>
+    <p>- Sidney Greenberg</p>
 </div>
