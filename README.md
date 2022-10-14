@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Vision without action is daydream. Action without vision is nightmare..</h4>
-    <p>- Japanese Proverb</p>
+    <h4> Winning is nice if you don't lose your integrity in the process.</h4>
+    <p>- Arnold Horshak</p>
 </div>
