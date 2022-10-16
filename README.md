@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Vulnerability is not winning or losing; it's having the courage to show up and be seen when we have no control over the outcome.</h4>
-    <p>- Brene Brown</p>
+    <h4> Even if you're on the right track, you'll get run over if you just sit there..</h4>
+    <p>- Will Rogers</p>
 </div>
