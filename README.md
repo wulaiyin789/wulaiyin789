@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What's the greater risk? Letting go of what people think or letting go of how I feel, what I believe, and who I am?</h4>
-    <p>- Brene Brown</p>
+    <h4> Your overnight success story is always a result of everything you have done in your life until that moment.</h4>
+    <p>- Bel Pesce</p>
 </div>
