@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Where there is ruin, there is hope for a treasure.</h4>
-    <p>- Rumi</p>
+    <h4> Win any way as long as you can get away with it. Nice guys finish last.</h4>
+    <p>- Leo Durocher</p>
 </div>
