@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.</h4>
-    <p>- Lorii Myers</p>
+    <h4> Every day you have a choice to be honest or deceptive. If you commit to telling the truth, you will win. You'll win more trust, you'll win more business, and you'll win more peace of mind. You'll break the system and be even more successful.</h4>
+    <p>- Dale Patridge</p>
 </div>
