@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.</h4>
-    <p>- Matthew Keith Groves</p>
+    <h4> A man who has no imagination has no wings.</h4>
+    <p>- Mohamad Ali</p>
 </div>
