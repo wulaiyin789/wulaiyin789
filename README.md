@@ -50,9 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> One does not accumulate but eliminate.
-It is not daily increase but daily
-decrease. The height of cultivation
-always runs to simplicity.</h4>
-    <p>- Bruce Lee</p>
+    <h4> Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.</h4>
+    <p>- Henry David Thoreau</p>
 </div>
