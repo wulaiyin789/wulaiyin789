@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Persistence is very important. You should not give up unless you are forced to give up.</h4>
-    <p>- Elon Musk</p>
+    <h4> If you want to make your dreams come true, the first thing you have to do is wake up.</h4>
+    <p>- J.M. Power</p>
 </div>
