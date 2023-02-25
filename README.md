@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Things are not bad in themselves, but our cowardice makes them so.</h4>
-    <p>- Michel de Montaigne</p>
+    <h4> Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!</h4>
+    <p>- Daireth Winehouse</p>
 </div>
