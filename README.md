@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We are each gifted in a unique and important way. It is our privilege and our adventure to discover our own special light</h4>
-    <p>- Mary Dunbar</p>
+    <h4> The man who has confidence in himself gains the confidence of others.</h4>
+    <p>- Hasidic Proverb</p>
 </div>
