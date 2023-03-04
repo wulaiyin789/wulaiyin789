@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Plant your own garden and decorate your own soul, instead of waiting for someone to bring you flowers.</h4>
-    <p>- Veronica A. Shoffstall</p>
+    <h4> Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game.</h4>
+    <p>- Voltaire</p>
 </div>
