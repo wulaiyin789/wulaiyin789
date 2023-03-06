@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When a man is an upright contender, only real people are bound to be around; but if he is a downright pretender, then fake people surround and always abound to be found.</h4>
-    <p>- Anuj Somany</p>
+    <h4> If you're changing the world, you're working on important things. You're excited to get up in the morning.</h4>
+    <p>- Larry Page</p>
 </div>
