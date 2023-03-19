@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you like what you do, and you're lucky enough to be good at it, do it for that reason.</h4>
-    <p>- Phil Grimshaw</p>
+    <h4> Sustenance! Your health is always the best prescription.</h4>
+    <p>- Lorii Myers</p>
 </div>
