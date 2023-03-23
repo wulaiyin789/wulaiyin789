@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is easy to sit up and take notice, What is difficult is getting up and taking action.</h4>
-    <p>- Honore de Balzac</p>
+    <h4> If you don't give up, you still have a chance. And when you are small, you have to be very focused and rely on your brain, not your strength.</h4>
+    <p>- Jack Ma</p>
 </div>
