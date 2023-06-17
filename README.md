@@ -20,7 +20,7 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 </li>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V9.pdf">resume</a>READCnev👨‍🔧.</p>
+<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V9.pdf">resume</a>.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Older men declare war. But it is youth that must fight and die.</h4>
-    <p>- Herbert Hoover</p>
+    <h4> Change is inevitable but personal growth is a choice.</h4>
+    <p>- Bob Proctor</p>
 </div>
