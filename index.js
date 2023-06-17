@@ -55,7 +55,7 @@ const factsConfigs = [
   `👾 I’m currently working on [Alfred24](https://www.alfred24.com.hk/en/home).`,
   `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
   `🤔 Learning and trying to develop any application within my knowledge.`,
-  `📙 Check out my [resume](https://peterwu789.com/pdf/CV_Peter_HK_V8.pdf)READCnev👨‍🔧.`,
+  `📙 Check out my [resume](https://peterwu789.com/pdf/CV_Peter_HK_V9.pdf)READCnev👨‍🔧.`,
   `👨‍💻 Most of my projects are available on [Github](https://github.com/wulaiyin789).`,
   `🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。`
 ];

@@ -19,7 +19,7 @@
 <p>🤔 Learning and trying to develop any application within my knowledge.</p>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V8.pdf">resume</a>READCnev👨‍🔧.</p>
+<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V9.pdf">resume</a>READCnev👨‍🔧.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
