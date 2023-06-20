@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Life is like stepping onto a boat which is about to sail out to sea and sink.</h4>
-    <p>- Shunryu Suzuki</p>
+    <h4> Nothing external to you has any power over you.</h4>
+    <p>- Ralph Waldo Emerson</p>
 </div>
