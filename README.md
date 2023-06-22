@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience.</h4>
-    <p>- Deepak Chopra</p>
+    <h4> Friendship is one of the most tangible things in a world which offers fewer and fewer supports.</h4>
+    <p>- Kenneth Branagh</p>
 </div>
