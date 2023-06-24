@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right.</h4>
-    <p>- Albus Dumbledore</p>
+    <h4> Tis not too late to seek a newer world.</h4>
+    <p>- Heraclitus</p>
 </div>
