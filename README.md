@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.</h4>
-    <p>- Sun Tzu</p>
+    <h4> The one who boasts does so only out of a feeling of inferiority.</h4>
+    <p>- Alfred Adler</p>
 </div>
