@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The first man gets the oyster, the second man gets the shell.</h4>
-    <p>- Andrew Carnegie</p>
+    <h4> Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</h4>
+    <p>- Og Mandino</p>
 </div>
