@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Every defeat, every heartbreak every loss, contains its own seed, its own lesson on how to improve your performance the next time.</h4>
-    <p>- Og Mandino</p>
+    <h4> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.  </h4>
+    <p>- Ray Bradbury</p>
 </div>
