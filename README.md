@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</h4>
-    <p>- Jonathan Swift</p>
+    <h4> Decide upon your major definite purpose in life and then organize all your activities around it.</h4>
+    <p>- Brian Tracy</p>
 </div>
