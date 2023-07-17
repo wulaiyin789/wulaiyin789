@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You have within you right now, everything you need to deal with whatever the world can throw at you.</h4>
-    <p>- Brian Tracy</p>
+    <h4> Every drop in the ocean counts. </h4>
+    <p>- Yoko Ono</p>
 </div>
