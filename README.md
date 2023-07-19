@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You are not what you think you are, You are not what others think you are, You are what you think others think you are.</h4>
-    <p>- Unknown</p>
+    <h4> Throw your heart over the fence and the rest will follow</h4>
+    <p>- Norman Vincent Peale</p>
 </div>
