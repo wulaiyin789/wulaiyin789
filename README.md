@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Your chances of success in any undertaking can always be measured by your belief in yourself.</h4>
-    <p>- Robert Collier</p>
+    <h4> Expect the best, plan for the worst, and prepare to be surprised. </h4>
+    <p>- Denis Waitley</p>
 </div>
