@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When one door closes another door opens. </h4>
-    <p>- Alexander Graham Bell</p>
+    <h4> The scariest moment is always just before you start. After that, things can only get better.</h4>
+    <p>- Stephen King</p>
 </div>
