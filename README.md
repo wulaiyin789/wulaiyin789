@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Everybody needs a passion. That's what keeps life interesting.</h4>
-    <p>- Betty White</p>
+    <h4> Stop being tormented by everyone else's reaction to you.</h4>
+    <p>- Joyce Meyer</p>
 </div>
