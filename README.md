@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Because of your smile, you make life more beautiful.</h4>
-    <p>- Thich Nhat Hanh</p>
+    <h4> The majority of what you want will come from the minority of what you do.</h4>
+    <p>- Gary Keller</p>
 </div>
