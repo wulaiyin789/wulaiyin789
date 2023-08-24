@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Happiness is not a goal...it's a by-product of a life well lived.</h4>
-    <p>- Eleanor Roosevelt</p>
+    <h4> Discipline is the bridge between goals and accomplishment.</h4>
+    <p>- Jim Rohn</p>
 </div>
