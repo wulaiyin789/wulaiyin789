@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Discipline is the bridge between goals and accomplishment.</h4>
-    <p>- Jim Rohn</p>
+    <h4> When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. </h4>
+    <p>- Henry Ford</p>
 </div>
