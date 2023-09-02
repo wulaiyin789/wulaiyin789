@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</h4>
-    <p>- Andrew Carnegie</p>
+    <h4> The joy of life comes from our encounters with new experiences.</h4>
+    <p>- Christopher McCandless</p>
 </div>
