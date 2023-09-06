@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> To do great work one must be very idle as well as very industrious.</h4>
-    <p>- Samuel Butler</p>
+    <h4> The only normal people are the ones you don't know very well.</h4>
+    <p>- Alfred Adler</p>
 </div>
