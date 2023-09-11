@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from.</h4>
-    <p>- T.S. Eliot</p>
+    <h4> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</h4>
+    <p>- Pema Chodron</p>
 </div>
