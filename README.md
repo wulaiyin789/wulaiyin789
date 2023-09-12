@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</h4>
-    <p>- Pema Chodron</p>
+    <h4> Thinking is the hardest work there is. That is why so few people engage in it.</h4>
+    <p>- Robert Kiyosaki</p>
 </div>
