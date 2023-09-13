@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Thinking is the hardest work there is. That is why so few people engage in it.</h4>
-    <p>- Robert Kiyosaki</p>
+    <h4> Truth is such a rare thing, it is delighted to tell it.</h4>
+    <p>- Emily Dickinson</p>
 </div>
