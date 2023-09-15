@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Your best life will not be found in comfort. It will be found in fighting for what you believe in.</h4>
-    <p>- Maxime Lagace</p>
+    <h4> Life is a series of choices and all we can do is make them.</h4>
+    <p>- Kamal Ravikant</p>
 </div>
