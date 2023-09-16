@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Life is a series of choices and all we can do is make them.</h4>
-    <p>- Kamal Ravikant</p>
+    <h4> There is a difference between giving directions and giving direction.</h4>
+    <p>- Simon Sinek</p>
 </div>
