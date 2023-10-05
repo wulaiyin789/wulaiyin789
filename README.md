@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Determine never to be idle. No person will have occasion to complain of the want of time who never loses any.</h4>
-    <p>- Thomas Jefferson</p>
+    <h4> Things may come to those who wait, but only the things left by those who hustle.</h4>
+    <p>- Abraham Lincoln</p>
 </div>
