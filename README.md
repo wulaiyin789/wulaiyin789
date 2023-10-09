@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The two most important days in your life are the day you are born and the day you find out why.</h4>
-    <p>- Mark Twain</p>
+    <h4> You give but little when you give of your possessions. It is when you give of yourself that you truly give.</h4>
+    <p>- Kahlil Gibran</p>
 </div>
