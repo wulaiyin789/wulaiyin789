@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Our life is what our thoughts make it. A man will find that as he alters his thoughts toward things and other people, things and other people will alter towards him.</h4>
-    <p>- James Allen</p>
+    <h4> The present moment is filled with joy and happiness. If you are attentive, you will see it.</h4>
+    <p>- Thich Nhat Hanh</p>
 </div>
