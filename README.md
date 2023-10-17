@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Doing the best at this moment puts you in the best place for the next moment.</h4>
-    <p>- Oprah Winfrey</p>
+    <h4> Being a good example is the best form of service.</h4>
+    <p>- Sathya Sai Baba</p>
 </div>
