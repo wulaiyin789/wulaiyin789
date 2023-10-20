@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you judge others, you do not define them, you define yourself.</h4>
-    <p>- Earl Nightingale</p>
+    <h4> Enthusiasm is a vital element toward the individual success of every man or woman.</h4>
+    <p>- Conrad Hilton</p>
 </div>
