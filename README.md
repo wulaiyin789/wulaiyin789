@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Enthusiasm is a vital element toward the individual success of every man or woman.</h4>
-    <p>- Conrad Hilton</p>
+    <h4> Far more crucial than what we know or do not know is what we do not want to know.</h4>
+    <p>- Eric Hoffer</p>
 </div>
