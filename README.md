@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you want to be honored by others, you learn to honor them first.</h4>
-    <p>- Sathya Sai Baba</p>
+    <h4> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</h4>
+    <p>- Thomas Jefferson</p>
 </div>
