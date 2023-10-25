@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do you want to know who you are? Don't ask. Act! Action will delineate and define you.</h4>
-    <p>- Thomas Jefferson</p>
+    <h4> Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for.</h4>
+    <p>- Gurbaksh Chahal</p>
 </div>
