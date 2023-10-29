@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The quality of your life is the quality of your relationships.</h4>
-    <p>- Tony Robbins</p>
+    <h4> Giving is living. If you stop wanting to give, there's nothing more to live for.</h4>
+    <p>- Audrey Hepburn</p>
 </div>
