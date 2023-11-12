@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Let us always meet each other with smile, for the smile is the beginning of love.</h4>
-    <p>- Mother Teresa</p>
+    <h4> The greatest treasures are those invisible to the eye but found by the heart.</h4>
+    <p>- Judy Garland</p>
 </div>
