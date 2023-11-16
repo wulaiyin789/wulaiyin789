@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine.</h4>
-    <p>- Roy T. Bennett</p>
+    <h4> Our happiness depends on the habit of mind we cultivate.</h4>
+    <p>- Norman Vincent Peale</p>
 </div>
