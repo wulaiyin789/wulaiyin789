@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Quality is not an act, it is a habit.</h4>
-    <p>- Aristotle</p>
+    <h4> Worry is a waste of emotional reserve.</h4>
+    <p>- Ayn Rand</p>
 </div>
