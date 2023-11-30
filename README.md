@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Success is an iceberg.</h4>
-    <p>- Unknown</p>
+    <h4> Teachers open the door. You enter by yourself. </h4>
+    <p>- Chinese Proverb</p>
 </div>
