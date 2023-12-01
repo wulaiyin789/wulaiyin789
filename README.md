@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Teachers open the door. You enter by yourself. </h4>
-    <p>- Chinese Proverb</p>
+    <h4> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</h4>
+    <p>- Carlos Ruiz Zafon</p>
 </div>
