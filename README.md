@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Every man desires to live long, but no man wishes to be old.</h4>
-    <p>- Jonathan Swift</p>
+    <h4> Fear, uncertainty, and discomfort are your compasses toward growth.</h4>
+    <p>- Celestine Chua</p>
 </div>
