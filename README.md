@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You give but little when you give of your possessions. It is when you give of yourself that you truly give.</h4>
-    <p>- Kahlil Gibran</p>
+    <h4> I enjoy life when things are happening. I don't care if it's good things or bad things. That means you're alive.</h4>
+    <p>- Joan Rivers</p>
 </div>
