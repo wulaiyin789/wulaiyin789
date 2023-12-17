@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Luck is a matter of preparation meeting opportunity.</h4>
-    <p>- Oprah Winfrey</p>
+    <h4> Argue for your limitations and sure enough, they're yours.</h4>
+    <p>- Richard Bach</p>
 </div>
