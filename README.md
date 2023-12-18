@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Argue for your limitations and sure enough, they're yours.</h4>
-    <p>- Richard Bach</p>
+    <h4> No man ever steps in the same river twice, for it's not the same river and he's not the same man.</h4>
+    <p>- Heraclitus</p>
 </div>
