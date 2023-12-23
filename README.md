@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Instead of being intimidated by the limitations, be inspired to find new ways around them.</h4>
-    <p>- Ralph Marston</p>
+    <h4> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</h4>
+    <p>- Robert Kiyosaki</p>
 </div>
