@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Watch what you say, and whatever you say, practice it.</h4>
-    <p>- Soyen Shaku</p>
+    <h4> The future belongs to those who believe in the beauty of their dreams.</h4>
+    <p>- Eleanor Roosevelt</p>
 </div>
