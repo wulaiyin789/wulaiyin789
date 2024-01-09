@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It's better to dance than to march through life.</h4>
-    <p>- Yoko Ono</p>
+    <h4> The moment you doubt whether you can fly, you cease for ever to be able to do it.</h4>
+    <p>- James Matthew Barrie</p>
 </div>
