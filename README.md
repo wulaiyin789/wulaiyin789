@@ -20,7 +20,7 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 </li>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V9.pdf">resume</a>.</p>
+<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V10.pdf">resume</a>.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
