@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You have to make time, even for something as universal as staring at the stars.</h4>
-    <p>- W.P. Kinsella</p>
+    <h4> Success comes from knowing that you did your best to become the best that you are capable of becoming.</h4>
+    <p>- John Wooden</p>
 </div>
