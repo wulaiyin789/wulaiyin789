@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Faithless is he that says farewell when the road darkens.</h4>
-    <p>- J.R.R. Tolkien</p>
+    <h4> A scientific man ought to have no wishes, no affections, - a mere heart of stone.</h4>
+    <p>- Charles Darwin</p>
 </div>
