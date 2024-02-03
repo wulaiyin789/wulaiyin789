@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Give me six hours to chop down a tree and I will spend the first four sharpening the axe.</h4>
-    <p>- Abraham Lincoln</p>
+    <h4> Just try to be the best you can be; never cease trying to be the best you can be. That's in your power.</h4>
+    <p>- John Wooden</p>
 </div>
