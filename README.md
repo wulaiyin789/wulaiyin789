@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Not why the addiction but why the pain.</h4>
-    <p>- Gabor Mate</p>
+    <h4> Because a thing seems difficult for you, do not think it impossible.</h4>
+    <p>- Marcus Aurelius</p>
 </div>
