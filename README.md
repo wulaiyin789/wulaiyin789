@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Speak when you are angry - and you'll make the best speech you'll ever regret.</h4>
-    <p>- Laurence J. Peter</p>
+    <h4> All I can do is be me, whoever that is.</h4>
+    <p>- Bob Dylan</p>
 </div>
