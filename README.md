@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</h4>
-    <p>- Thich Nhat Hanh</p>
+    <h4> We think too much and feel too little.</h4>
+    <p>- Charlie Chaplin</p>
 </div>
