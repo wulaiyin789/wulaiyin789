@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You came empty handed, and you will leave empty handed.</h4>
-    <p>- Bhagavad Gita</p>
+    <h4> At the end of the day, let there be no excuses, no explanations, no regrets.</h4>
+    <p>- Steve Maraboli</p>
 </div>
