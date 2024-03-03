@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't let the past steal your present.</h4>
-    <p>- Cherralea Morgen</p>
+    <h4> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love.</h4>
+    <p>- Dr. Seuss</p>
 </div>
