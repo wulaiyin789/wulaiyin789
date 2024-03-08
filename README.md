@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Be as fluid as water, do not give your enemies anything solid to attack.</h4>
-    <p>- Robert Greene</p>
+    <h4> She who loves roses must be patient and not cry out when she is pierced by thorns.</h4>
+    <p>- Kenji Miyazawa</p>
 </div>
