@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</h4>
-    <p>- Kahlil Gibran</p>
+    <h4> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.</h4>
+    <p>- Charles Dickens</p>
 </div>
