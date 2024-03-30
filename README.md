@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I am thankful to all who said no to me. It is because of them that I'm doing it myself.</h4>
-    <p>- Albert Einstein</p>
+    <h4> All know that the drop merges into the ocean, but few know that the ocean merges into the drop.</h4>
+    <p>- Kabir</p>
 </div>
