@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Where words fail, music speaks.</h4>
-    <p>- Hans Christian Andersen</p>
+    <h4> You can do two things at once, but you can't focus effectively on two things at once.</h4>
+    <p>- Gary Keller</p>
 </div>
