@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Your time is limited, so don't waste it living someone elses. life.</h4>
-    <p>- Steve Jobs</p>
+    <h4> Only when I fall do I get up again.</h4>
+    <p>- Vincent van Gogh</p>
 </div>
