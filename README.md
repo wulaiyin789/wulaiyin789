@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Things turn out best for the people who make the best of the way things turn out.</h4>
-    <p>- John Wooden</p>
+    <h4> The longer we dwell on our misfortunes, the greater is their power to harm us.</h4>
+    <p>- Voltaire</p>
 </div>
