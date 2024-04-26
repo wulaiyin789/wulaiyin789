@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When people are free to do as they please, they usually imitate each other.</h4>
-    <p>- Eric Hoffer</p>
+    <h4> Don't let your mind stop you.</h4>
+    <p>- Steve Harvey</p>
 </div>
