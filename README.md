@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Be of good cheer about death, and know this of a truth, that no evil can happen to a good man, either in life or after death.</h4>
-    <p>- Socrates</p>
+    <h4> It's not the love you make. It's the love you give. </h4>
+    <p>- Nikola Tesla</p>
 </div>
