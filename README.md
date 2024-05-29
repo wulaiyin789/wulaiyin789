@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you are content to be simply yourself and don't compare or compete, everybody will respect you. </h4>
-    <p>- Lao Tzu</p>
+    <h4> People don't care how much you know until they know how much you care.</h4>
+    <p>- Theodore Roosevelt</p>
 </div>
