@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It's not the love you make. It's the love you give. </h4>
-    <p>- Nikola Tesla</p>
+    <h4> Employ your time in improving yourself by other men's writings, so that you shall gain easily what others have labored hard for.</h4>
+    <p>- Socrates</p>
 </div>
