@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The best way to find yourself is to lose yourself in the service of others.</h4>
-    <p>- Mahatma Gandhi</p>
+    <h4> A person hears only what they understand.</h4>
+    <p>- Johann Wolfgang von Goethe</p>
 </div>
