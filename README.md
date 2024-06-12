@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases.</h4>
-    <p>- Sathya Sai Baba</p>
+    <h4> A man who dares to waste one hour of time has not discovered the value of life.</h4>
+    <p>- Charles Darwin</p>
 </div>
