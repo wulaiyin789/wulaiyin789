@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The strength of a wall is neither greater nor less than the courage of the men who defend it. </h4>
-    <p>- Genghis Khan</p>
+    <h4> People seldom do what they believe in. They do what is convenient, then repent.</h4>
+    <p>- Bob Dylan</p>
 </div>
