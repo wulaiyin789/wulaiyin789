@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Faith is taking the first step even when you don't see the whole staircase.</h4>
-    <p>- Martin Luther King, Jr.</p>
+    <h4> Let not your mind run on what you lack as much as on what you have already.</h4>
+    <p>- Marcus Aurelius</p>
 </div>
