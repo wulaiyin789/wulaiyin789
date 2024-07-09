@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> An intelligence test sometimes shows a man how smart he would have been not to have taken it.</h4>
-    <p>- Laurence J. Peter</p>
+    <h4> I am always doing what I cannot do yet, in order to learn how to do it.</h4>
+    <p>- Vincent van Gogh</p>
 </div>
