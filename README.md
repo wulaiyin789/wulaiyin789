@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We should not look back unless it is to derive useful lessons from past errors.</h4>
-    <p>- George Washington</p>
+    <h4> Have a vision. Be demanding.</h4>
+    <p>- Colin Powell</p>
 </div>
