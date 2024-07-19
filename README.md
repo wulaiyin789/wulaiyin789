@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You must find the place inside yourself where nothing is impossible.</h4>
-    <p>- Deepak Chopra</p>
+    <h4> Stop acting so small. You are the universe in ecstatic motion.</h4>
+    <p>- Rumi</p>
 </div>
