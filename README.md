@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There are dark shadows on the earth, but its lights are stronger in the contrast.</h4>
-    <p>- Charles Dickens</p>
+    <h4> You need to be doing fewer things for more effect instead of doing more things with side effects.</h4>
+    <p>- Gary Keller</p>
 </div>
