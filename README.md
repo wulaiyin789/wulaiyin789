@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.</h4>
-    <p>- Stephen King</p>
+    <h4> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found.</h4>
+    <p>- Pema Chodron</p>
 </div>
