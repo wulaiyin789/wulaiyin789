@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We may not be able to stop evil in the world, but how we treat one another is entirely up to us.</h4>
-    <p>- Barack Obama</p>
+    <h4> The Only Thing That Is Constant Is Change</h4>
+    <p>- Heraclitus</p>
 </div>
