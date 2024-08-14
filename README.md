@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</h4>
-    <p>- Stephen King</p>
+    <h4> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.  </h4>
+    <p>- Wayne Dyer</p>
 </div>
