@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> All our dreams can come true, if we have the courage to pursue them.</h4>
-    <p>- Walt Disney</p>
+    <h4> Don't gain the world and lose your soul. Wisdom is better than silver and gold.</h4>
+    <p>- Bob Marley</p>
 </div>
