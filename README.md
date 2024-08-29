@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You can't build a reputation on what you are going to do. </h4>
-    <p>- Henry Ford</p>
+    <h4> Keep away from people who try to belittle your ambitions.</h4>
+    <p>- Mark Twain</p>
 </div>
