@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The soul should always stand ajar, ready to welcome the ecstatic experience.</h4>
-    <p>- Emily Dickinson</p>
+    <h4> The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </h4>
+    <p>- Charles Swindoll</p>
 </div>
