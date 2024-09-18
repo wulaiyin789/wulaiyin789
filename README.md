@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Smell the cheese often so you know when it is getting old.</h4>
-    <p>- Spencer Johnson</p>
+    <h4> Adventure is not outside man; it is within.</h4>
+    <p>- George Eliot</p>
 </div>
