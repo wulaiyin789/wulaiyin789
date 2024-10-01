@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A fall into a ditch makes you wiser.</h4>
-    <p>- Chinese Proverb</p>
+    <h4> It is what we make out of what we have, not what we are given, that separates one person from another.</h4>
+    <p>- Nelson Mandela</p>
 </div>
