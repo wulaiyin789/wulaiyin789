@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The hardest arithmetic to master is that which enables us to count our blessings.</h4>
-    <p>- Eric Hoffer</p>
+    <h4> If you try to micromanage yourself all you're going to do is make yourself miserable.</h4>
+    <p>- Naval Ravikant</p>
 </div>
