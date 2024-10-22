@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Unless you change how you are, you will always have what you got.</h4>
-    <p>- Jim Rohn</p>
+    <h4> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them.</h4>
+    <p>- W. Clement Stone</p>
 </div>
