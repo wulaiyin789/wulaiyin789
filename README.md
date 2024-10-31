@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You have a brain and mind of your own. Use it, and reach your own decisions.</h4>
-    <p>- Napoleon Hill</p>
+    <h4> Take care of your body. It's the only place you have to live.</h4>
+    <p>- Jim Rohn</p>
 </div>
