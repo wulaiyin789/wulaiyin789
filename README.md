@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Fallacies do not cease to be fallacies because they become fashions.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict.</h4>
+    <p>- Naval Ravikant</p>
 </div>
