@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Rivers know this: there is no hurry. We shall get there some day.</h4>
-    <p>- A.A. Milne</p>
+    <h4> Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</h4>
+    <p>- Eckhart Tolle</p>
 </div>
