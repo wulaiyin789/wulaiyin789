@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A self that goes on changing is a self that goes on living.</h4>
-    <p>- Virginia Woolf</p>
+    <h4> A fear of weakness only strengthens weakness.</h4>
+    <p>- Criss Jami</p>
 </div>
