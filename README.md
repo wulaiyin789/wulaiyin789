@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If the grass is greener on the other side, maybe that's because you're not taking good care of your grass.</h4>
-    <p>- Unknown</p>
+    <h4> Understanding that rests in what it does not understand is the finest.</h4>
+    <p>- Zhuangzi</p>
 </div>
