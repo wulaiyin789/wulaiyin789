@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Logic is like the sword - those who appeal to it shall perish by it.</h4>
-    <p>- Samuel Butler</p>
+    <h4> You can have it all. You just can't have it all at once. </h4>
+    <p>- Oprah Winfrey</p>
 </div>
