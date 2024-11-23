@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You can have it all. You just can't have it all at once. </h4>
-    <p>- Oprah Winfrey</p>
+    <h4> Not all those who wander are lost.</h4>
+    <p>- J.R.R. Tolkien</p>
 </div>
