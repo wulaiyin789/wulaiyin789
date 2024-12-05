@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What would you do if you weren't afraid?</h4>
-    <p>- Spencer Johnson</p>
+    <h4> We love the things we love for what they are.</h4>
+    <p>- Robert Frost</p>
 </div>
