@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Never do to others what you would not like them to do to you. </h4>
-    <p>- Confucius</p>
+    <h4> No matter how tall the mountain is, it cannot block the sun.</h4>
+    <p>- Chinese Proverb</p>
 </div>
