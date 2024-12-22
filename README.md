@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When you're curious, you find lots of interesting things to do.</h4>
-    <p>- Walt Disney</p>
+    <h4> Silence is a source of great strength.</h4>
+    <p>- Lao Tzu</p>
 </div>
