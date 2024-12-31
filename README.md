@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Not all of us can do great things. But we can do small things with great love.</h4>
-    <p>- Mother Teresa</p>
+    <h4> The golden opportunity you are seeking is within yourself.</h4>
+    <p>- Mary Engelbreit</p>
 </div>
