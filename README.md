@@ -50,6 +50,6 @@ I'm currently a software engineer **[@alfred24hk](https://www.alfred24.com.hk/en
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The golden opportunity you are seeking is within yourself.</h4>
-    <p>- Mary Engelbreit</p>
+    <h4> The real art in learning takes place as we move beyond proficiency, when our work becomes an expression of our essence.</h4>
+    <p>- Josh Waitzkin</p>
 </div>
