@@ -17,8 +17,8 @@ md.use(mdEmoji);
 const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Peter', 'https://peterwu789.com/')}`);
 
 const introDescription = `I'm currently a software engineer **${generateLink(
-  '@alfred24hk',
-  'https://www.alfred24.com.hk/en/home'
+  '@viu',
+  'https://www.viu.com'
 )}** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!`;
 
 const badgeConfigs = [
@@ -52,7 +52,7 @@ const badges = badgeConfigs.reduce((result, config) => result + ' ' + generateBa
 const gif = `<img align="right" src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif" />`;
 const factsTitle = generateTitle(2, `:zap: A Few Fun Facts`);
 const factsConfigs = [
-  `👾 I’m currently working on [Alfred24](https://www.alfred24.com.hk/en/home).`,
+  `👾 I’m currently working on [Viu](https://www.viu.com).`,
   `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
   `🤔 Learning and trying to develop any application within my knowledge.`,
   `📙 Check out my [resume](https://peterwu789.com/pdf/CV_Peter_HK_V10.pdf)READCnev👨‍🔧.`,
