@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A rational person can find peace by cultivating indifference to things outside of their control.</h4>
-    <p>- Naval Ravikant</p>
+    <h4> It's not what you've got; it's what you do that makes the difference.</h4>
+    <p>- Celestine Chua</p>
 </div>
