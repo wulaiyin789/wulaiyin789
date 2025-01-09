@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility.</h4>
-    <p>- Sigmund Freud</p>
+    <h4> A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</h4>
+    <p>- Charles Dickens</p>
 </div>
