@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The greatest discovery of all time is that a person can change their future by merely changing their attitude.</h4>
-    <p>- Oprah Winfrey</p>
+    <h4> The future belongs to those who believe in the beauty of their dreams.</h4>
+    <p>- Eleanor Roosevelt</p>
 </div>
