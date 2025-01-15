@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.</h4>
-    <p>- William James</p>
+    <h4> The quality of your commitments will determine the course of your life.</h4>
+    <p>- Ralph Marston</p>
 </div>
