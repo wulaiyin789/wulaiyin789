@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do not take life too seriously. You will never get out of it alive.</h4>
-    <p>- Elbert Hubbard</p>
+    <h4> If your happiness depends on what somebody else does, I guess you do have a problem.</h4>
+    <p>- Richard Bach</p>
 </div>
