@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If your happiness depends on what somebody else does, I guess you do have a problem.</h4>
-    <p>- Richard Bach</p>
+    <h4> He who knows how to wait need make no concessions.</h4>
+    <p>- Sigmund Freud</p>
 </div>
