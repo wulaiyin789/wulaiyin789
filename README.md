@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</h4>
-    <p>- Roy T. Bennett</p>
+    <h4> Any fool can paint a picture, but it takes a wise man to be able to sell it.</h4>
+    <p>- Samuel Butler</p>
 </div>
