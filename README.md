@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Any fool can paint a picture, but it takes a wise man to be able to sell it.</h4>
-    <p>- Samuel Butler</p>
+    <h4> If you've never eaten while crying you don t know what life tastes like.</h4>
+    <p>- Johann Wolfgang von Goethe</p>
 </div>
