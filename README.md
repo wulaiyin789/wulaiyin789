@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> True wealth is of the heart, not of the purse.</h4>
-    <p>- Og Mandino</p>
+    <h4> It's not how much money you make, it's how much money you keep.</h4>
+    <p>- Robert Kiyosaki</p>
 </div>
