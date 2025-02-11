@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The older you get, the more you understand how your conscience works.</h4>
-    <p>- Criss Jami</p>
+    <h4> Life is ten percent what you experience and ninety percent how you respond to it.</h4>
+    <p>- Unknown</p>
 </div>
