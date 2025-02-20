@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Even if you stumble and fall down, it doesn't mean you've chosen the wrong path.</h4>
-    <p>- Zen Proverb</p>
+    <h4> The greatest gift that you can give to others is the gift of unconditional love and acceptance. </h4>
+    <p>- Brian Tracy</p>
 </div>
