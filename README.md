@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Success is never final, failure is never fatal. It's courage that counts.</h4>
-    <p>- John Wooden</p>
+    <h4> Hold yourself responsible for a higher standard than anybody else expects of you.</h4>
+    <p>- Henry Ward Beecher</p>
 </div>
