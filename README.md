@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given.</h4>
-    <p>- Steve Harvey</p>
+    <h4> A path is made by walking on it.</h4>
+    <p>- Zhuangzi</p>
 </div>
