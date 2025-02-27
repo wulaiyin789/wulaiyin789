@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Intense love does not measure, it just gives.</h4>
-    <p>- Mother Teresa</p>
+    <h4> Talk to someone about themselves and they'll listen for hours.</h4>
+    <p>- Dale Carnegie</p>
 </div>
