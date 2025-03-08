@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Everyone has the right to make his own decisions, but none has the right to force his decision on others.</h4>
-    <p>- Ayn Rand</p>
+    <h4> Success comes to those who become success conscious.</h4>
+    <p>- Napoleon Hill</p>
 </div>
