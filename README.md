@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Whatever happens always happens on time.</h4>
-    <p>- Zen Proverb</p>
+    <h4> Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more.</h4>
+    <p>- Tony Robbins</p>
 </div>
