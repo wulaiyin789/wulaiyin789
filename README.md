@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Success is going from failure to failure without losing your enthusiasm</h4>
-    <p>- Winston Churchill</p>
+    <h4> If you're afraid - don't do it, - if you're doing it - don't be afraid! </h4>
+    <p>- Genghis Khan</p>
 </div>
