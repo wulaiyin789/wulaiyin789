@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Intelligent men are cruel. Stupid men are monstrously cruel.</h4>
-    <p>- Jack London</p>
+    <h4> Any game becomes important when you know and love the players.</h4>
+    <p>- W.P. Kinsella</p>
 </div>
