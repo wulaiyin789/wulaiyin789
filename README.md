@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The Art of Peace begins with you.</h4>
-    <p>- Morihei Ueshiba</p>
+    <h4> The price of inaction is far greater than the cost of making a mistake.</h4>
+    <p>- Meister Eckhart</p>
 </div>
