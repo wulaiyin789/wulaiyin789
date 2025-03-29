@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Work for something because it is good, not just because it stands a chance to succeed.</h4>
-    <p>- Vaclav Havel</p>
+    <h4> Always forgive your enemies - nothing annoys them so much. </h4>
+    <p>- Oscar Wilde</p>
 </div>
