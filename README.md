@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Words are the clothes thoughts wear.</h4>
-    <p>- Samuel Beckett</p>
+    <h4> We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</h4>
+    <p>- Bhagavad Gita</p>
 </div>
