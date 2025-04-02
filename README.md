@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We're kept from our goal not by obstacles, but by a clear path to a lesser goal.</h4>
-    <p>- Bhagavad Gita</p>
+    <h4> You have to make time, even for something as universal as staring at the stars.</h4>
+    <p>- W.P. Kinsella</p>
 </div>
