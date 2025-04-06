@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is useless to attempt to reason a man out of a thing he was never reasoned into.</h4>
-    <p>- Jonathan Swift</p>
+    <h4> When angry count to ten before you speak. If very angry, count to one hundred.</h4>
+    <p>- Thomas Jefferson</p>
 </div>
