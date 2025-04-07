@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When angry count to ten before you speak. If very angry, count to one hundred.</h4>
-    <p>- Thomas Jefferson</p>
+    <h4> The greatest of all mistakes is to do nothing because you think you can only do a little.  </h4>
+    <p>- Zig Ziglar</p>
 </div>
