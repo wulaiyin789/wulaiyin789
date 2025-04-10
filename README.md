@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Nothing can survive without food. Everything we consume acts either to heal us or to poison us.</h4>
-    <p>- Thich Nhat Hanh</p>
+    <h4> The most important thing in life is to stop saying 'I wish' and start saying 'I will'. Consider nothing impossible, then treat possibilities as probabilities.</h4>
+    <p>- Charles Dickens</p>
 </div>
