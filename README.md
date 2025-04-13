@@ -1,5 +1,5 @@
 
-## Hey :wave:, I'm [Peter](https://peterwu789.com/)
+## Hey :wave:, I'm [Peter](https://peter-portfolio.vercel.app/)
 
 I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!
 
@@ -20,7 +20,7 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 </li>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peterwu789.com/pdf/CV_Peter_HK_V10.pdf">resume</a>.</p>
+<p>📙 Check out my <a href="https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V11.pdf">resume</a>.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>
@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Excellence is not a skill. It is an attitude. </h4>
-    <p>- Ralph Marston</p>
+    <h4> Today will never happen again. Don't waste it with a false start or no start at all.</h4>
+    <p>- Og Mandino</p>
 </div>
