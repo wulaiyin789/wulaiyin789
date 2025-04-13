@@ -14,7 +14,7 @@ const axios = require('axios').default;
 md.use(mdEmoji);
 
 /* README Sections */
-const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Peter', 'https://peterwu789.com/')}`);
+const introTitle = generateTitle(2, `Hey :wave:, I'm ${generateLink('Peter', 'https://peter-portfolio.vercel.app/')}`);
 
 const introDescription = `I'm currently a software engineer **${generateLink(
   '@viu',
@@ -24,11 +24,11 @@ const introDescription = `I'm currently a software engineer **${generateLink(
 const badgeConfigs = [
   {
     name: 'Website',
-    badgeText: 'peterwu789.com',
+    badgeText: 'peter-portfolio.vercel.app',
     labelBgColor: '4E69C8',
     logoBgColor: '4E69C8',
     logo: 'Google',
-    link: 'https://peterwu789.com/'
+    link: 'https://peter-portfolio.vercel.app/'
   },
   {
     name: 'LinkedIn',
@@ -55,7 +55,7 @@ const factsConfigs = [
   `👾 I’m currently working on [Viu](https://www.viu.com).`,
   `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
   `🤔 Learning and trying to develop any application within my knowledge.`,
-  `📙 Check out my [resume](https://peterwu789.com/pdf/CV_Peter_HK_V10.pdf)READCnev👨‍🔧.`,
+  `📙 Check out my [resume](https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V11.pdf)READCnev👨‍🔧.`,
   `👨‍💻 Most of my projects are available on [Github](https://github.com/wulaiyin789).`,
   `🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。`
 ];
