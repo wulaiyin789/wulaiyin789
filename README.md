@@ -3,7 +3,7 @@
 
 I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 HK. I am working on some new side projects, learning a couple of new dishes, and trying to improve my knowledge on different sector!
 
-[![Website Badge](https://img.shields.io/badge/-peterwu789.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Google&amp;link=https://peterwu789.com/)](https://peterwu789.com/) [![LinkedIn Badge](https://img.shields.io/badge/-@peterwu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/peter-wu-5a626614b/)](https://www.linkedin.com/in/peter-wu-5a626614b/) [![Spotify Badge](https://img.shields.io/badge/-@Peter%20Wu-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)](https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)
+[![Website Badge](https://img.shields.io/badge/peterwu789.com-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Google&amp;link=https://peterwu789.com/)](https://peterwu789.com/) [![LinkedIn Badge](https://img.shields.io/badge/-@peterwu-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/peter-wu-5a626614b/)](https://www.linkedin.com/in/peter-wu-5a626614b/) [![Spotify Badge](https://img.shields.io/badge/-@Peter%20Wu-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)](https://open.spotify.com/user/peterw_sb?si=-MH1nu8DQ7eVU-SXnQPquQ)
 
 <img align="right" src="https://1.bp.blogspot.com/-PerenMfIjCM/XpcyoHWXSzI/AAAAAAAAB-g/DuPj_IoSWAMod3pVy4eEya4uxk-KN0UuACLcBGAsYHQ/s1600/typing%2Bcat%2Bgif3.gif" />
 
