@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Repetition does not transform a lie into a truth.</h4>
-    <p>- Franklin D. Roosevelt</p>
+    <h4> To a mind that is still, the entire universe surrenders.</h4>
+    <p>- Zhuangzi</p>
 </div>
