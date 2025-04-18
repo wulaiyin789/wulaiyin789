@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.</h4>
-    <p>- Charles Dickens</p>
+    <h4> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</h4>
+    <p>- Henry David Thoreau</p>
 </div>
