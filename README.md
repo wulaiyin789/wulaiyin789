@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Live in each season as it passes; breathe the air, drink the drink, taste the fruit, and resign yourself to the influence of the earth.</h4>
-    <p>- Henry David Thoreau</p>
+    <h4> Everything eaten is killed. Every meal is a sacrifice.</h4>
+    <p>- Adi Da Samraj</p>
 </div>
