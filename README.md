@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Sometimes good things fall apart so better things can fall together.</h4>
-    <p>- Marilyn Monroe</p>
+    <h4> An ounce of performance is worth pounds of promises.</h4>
+    <p>- Mae West</p>
 </div>
