@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold.</h4>
-    <p>- Chinese Proverb</p>
+    <h4> Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </h4>
+    <p>- Paramahansa Yogananda</p>
 </div>
