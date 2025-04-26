@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes.</h4>
-    <p>- Andrew Carnegie</p>
+    <h4> The best thing to hold onto in life is each other.</h4>
+    <p>- Audrey Hepburn</p>
 </div>
