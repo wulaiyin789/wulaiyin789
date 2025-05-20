@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> To be great is to be misunderstood.</h4>
-    <p>- Ralph Waldo Emerson</p>
+    <h4> It is not as important how we start, but how we finish.</h4>
+    <p>- Joyce Meyer</p>
 </div>
