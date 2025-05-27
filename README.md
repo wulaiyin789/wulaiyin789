@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you can't argue both sides, you can't argue.</h4>
-    <p>- Jack Butcher</p>
+    <h4> Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it.</h4>
+    <p>- James Matthew Barrie</p>
 </div>
