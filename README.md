@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead?</h4>
-    <p>- Seneca</p>
+    <h4> People should pursue what they're passionate about. That will make them happier than pretty much anything else.</h4>
+    <p>- Elon Musk</p>
 </div>
