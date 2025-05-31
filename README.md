@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> People should pursue what they're passionate about. That will make them happier than pretty much anything else.</h4>
-    <p>- Elon Musk</p>
+    <h4> Opportunities don't often come along. So, when they do, you have to grab them.</h4>
+    <p>- Audrey Hepburn</p>
 </div>
