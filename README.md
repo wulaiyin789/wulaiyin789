@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present.</h4>
-    <p>- George Bernard Shaw</p>
+    <h4> A fall into a ditch makes you wiser.</h4>
+    <p>- Chinese Proverb</p>
 </div>
