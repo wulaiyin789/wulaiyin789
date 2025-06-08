@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Sometimes out of your biggest misery, comes your greatest gain.</h4>
-    <p>- Steve Harvey</p>
+    <h4> If you don't program yourself, life will program you.</h4>
+    <p>- Les Brown</p>
 </div>
