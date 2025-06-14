@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is only depth of character that determines the profundity with which we face life.</h4>
-    <p>- Ming-Dao Deng</p>
+    <h4> Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present.</h4>
+    <p>- Joan Rivers</p>
 </div>
