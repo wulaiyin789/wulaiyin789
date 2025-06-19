@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Success is often achieved by those who don't know that failure is inevitable.</h4>
-    <p>- Coco Chanel</p>
+    <h4> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</h4>
+    <p>- Eleanor Roosevelt</p>
 </div>
