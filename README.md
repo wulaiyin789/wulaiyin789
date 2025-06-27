@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You must conceive it in your heart and mind before you can receive it. If you believe then all things are possible.</h4>
-    <p>- Norman Vincent Peale</p>
+    <h4> Work is always an antidote to depression.</h4>
+    <p>- Eleanor Roosevelt</p>
 </div>
