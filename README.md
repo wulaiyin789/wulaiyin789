@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I do not exist to impress the world. I exist to live my life in a way that will make me happy.</h4>
-    <p>- Richard Bach</p>
+    <h4> A person who does not read is no better than one cannot read.</h4>
+    <p>- Earl Nightingale</p>
 </div>
