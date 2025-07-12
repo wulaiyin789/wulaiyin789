@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You have to accept whatever comes, and the only important thing is that you meet it with the best you have to give.</h4>
-    <p>- Eleanor Roosevelt</p>
+    <h4> The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h4>
+    <p>- Morihei Ueshiba</p>
 </div>
