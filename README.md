@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The divine is not something high above us. It is in heaven, it is in earth, it is inside us.</h4>
-    <p>- Morihei Ueshiba</p>
+    <h4> A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will.</h4>
+    <p>- James Allen</p>
 </div>
