@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Let each man exercise the art he knows.</h4>
-    <p>- Aristophanes</p>
+    <h4> If you can't, you must. If you must, you can.</h4>
+    <p>- Tony Robbins</p>
 </div>
