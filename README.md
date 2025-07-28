@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We create the world and ourselves;</h4>
-    <p>- Ming-Dao Deng</p>
+    <h4> A poet should be so crafty with words that he is envied even for his pains.</h4>
+    <p>- Criss Jami</p>
 </div>
