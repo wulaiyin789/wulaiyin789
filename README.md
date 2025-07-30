@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What lies behind us and what lies before us are tiny matters compared to what lies within us.</h4>
-    <p>- Ralph Waldo Emerson</p>
+    <h4> When reading, only read. When eating, only eat. When thinking, only think.</h4>
+    <p>- Seungsahn</p>
 </div>
