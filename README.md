@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is better to learn late than never.</h4>
-    <p>- Publilius Syrus</p>
+    <h4> Do your duty and a little more and the future will take care of itself.</h4>
+    <p>- Andrew Carnegie</p>
 </div>
