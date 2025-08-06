@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> When we have our body and mind in order, everything else will exist in the right place, in the right way.</h4>
-    <p>- Shunryu Suzuki</p>
+    <h4> Faithless is he that says farewell when the road darkens.</h4>
+    <p>- J.R.R. Tolkien</p>
 </div>
