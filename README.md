@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Life reflects your own thoughts back to you.</h4>
-    <p>- Napoleon Hill</p>
+    <h4> The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.</h4>
+    <p>- Brian Tracy</p>
 </div>
