@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Why compare yourself with others? No one in the entire world can do a better job of being you than you.</h4>
-    <p>- Unknown</p>
+    <h4> It still holds true that man is most uniquely human when he turns obstacles into opportunities.</h4>
+    <p>- Eric Hoffer</p>
 </div>
