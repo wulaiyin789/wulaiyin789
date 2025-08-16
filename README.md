@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The power of human thought grows exponentially with the number of minds that share that thought.</h4>
-    <p>- Dan Brown</p>
+    <h4> My guiding principle is this: Guilt is never to be doubted. </h4>
+    <p>- Franz Kafka</p>
 </div>
