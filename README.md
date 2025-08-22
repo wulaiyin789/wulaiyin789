@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.</h4>
-    <p>- Kabir</p>
+    <h4> Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!</h4>
+    <p>- Og Mandino</p>
 </div>
