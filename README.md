@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Imagination is everything. It is the preview of life's coming attractions.</h4>
-    <p>- Albert Einstein</p>
+    <h4> Some people are old at 18 and some are young at 90. Time is a concept that humans created.</h4>
+    <p>- Yoko Ono</p>
 </div>
