@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Those who cannot change their minds cannot change anything.</h4>
-    <p>- George Bernard Shaw</p>
+    <h4> There is no path to Love. Love is the path.</h4>
+    <p>- Dan Millman</p>
 </div>
