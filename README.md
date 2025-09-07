@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It does not matter how slowly you go so long as you do not stop.</h4>
-    <p>- Confucius</p>
+    <h4> There are more people who wish to be loved than there are who are willing to love. </h4>
+    <p>- Nicolas Chamfort</p>
 </div>
