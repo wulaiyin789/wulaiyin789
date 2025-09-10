@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Whether you have a problem in your life or not depends upon your own attitude, your own understanding.</h4>
-    <p>- Shunryu Suzuki</p>
+    <h4> It's not whether you get knocked down, its whether you get back up.</h4>
+    <p>- Vince Lombardi</p>
 </div>
