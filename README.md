@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There is only the one reality, neither to be realized nor attained.</h4>
-    <p>- Huang Po</p>
+    <h4> Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit.</h4>
+    <p>- Robin Sharma</p>
 </div>
