@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</h4>
-    <p>- Huang Po</p>
+    <h4> Winning isn't always championships.</h4>
+    <p>- Michael Jordan</p>
 </div>
