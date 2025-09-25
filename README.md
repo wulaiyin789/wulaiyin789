@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Humans and prosperity never endure side by side for long.</h4>
-    <p>- Herodotus</p>
+    <h4> If you do what you've always done, you'll get what you've always gotten.</h4>
+    <p>- Tony Robbins</p>
 </div>
