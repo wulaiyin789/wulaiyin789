@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</h4>
-    <p>- Marcus Aurelius</p>
+    <h4> Trust is built and maintained by many small actions over time.</h4>
+    <p>- Lolly Daskal</p>
 </div>
