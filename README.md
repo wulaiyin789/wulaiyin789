@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The fear of death is more to be feared, than death itself.</h4>
-    <p>- Publilius Syrus</p>
+    <h4> Only the educated are free.</h4>
+    <p>- Epictetus</p>
 </div>
