@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I don't pretend to know everything; I just only speak on matters I know I'll win.</h4>
-    <p>- Criss Jami</p>
+    <h4> The best fighter is never angry.</h4>
+    <p>- Lao Tzu</p>
 </div>
