@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't be afraid to stand for what you believe in, even if that means standing alone.</h4>
-    <p>- Unknown</p>
+    <h4> Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.</h4>
+    <p>- Ming-Dao Deng</p>
 </div>
