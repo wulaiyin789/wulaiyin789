@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Shoot for the moon. Even if you miss, you'll land among the stars.</h4>
-    <p>- Norman Vincent Peale</p>
+    <h4> When you know what you want, and want it bad enough, you will find a way to get it.</h4>
+    <p>- Jim Rohn</p>
 </div>
