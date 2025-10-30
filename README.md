@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The most creative act you will ever undertake is the act of creating yourself.</h4>
-    <p>- Deepak Chopra</p>
+    <h4> Winning isn't everything, but wanting to win is.</h4>
+    <p>- Vince Lombardi</p>
 </div>
