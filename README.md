@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> No grand idea was ever born in a conference, but a lot of foolish ideas have died there.</h4>
-    <p>- F. Scott Fitzgerald</p>
+    <h4> Do Something. If it works, do more of it. If it doesn't, do something else.</h4>
+    <p>- Franklin D. Roosevelt</p>
 </div>
