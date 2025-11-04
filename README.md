@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do Something. If it works, do more of it. If it doesn't, do something else.</h4>
-    <p>- Franklin D. Roosevelt</p>
+    <h4> You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win.</h4>
+    <p>- Arnold Schwarzenegger</p>
 </div>
