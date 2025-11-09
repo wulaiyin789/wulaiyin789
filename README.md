@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.</h4>
-    <p>- Charles Darwin</p>
+    <h4> Imagination is everything. It is the preview of life's coming attractions.</h4>
+    <p>- Albert Einstein</p>
 </div>
