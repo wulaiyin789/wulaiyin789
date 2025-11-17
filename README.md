@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves.</h4>
-    <p>- Brian Tracy</p>
+    <h4> Fears are nothing more than a state of mind.</h4>
+    <p>- Napoleon Hill</p>
 </div>
