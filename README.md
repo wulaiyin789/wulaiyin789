@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Fears are nothing more than a state of mind.</h4>
-    <p>- Napoleon Hill</p>
+    <h4> You become stronger with every problem you face and every obstacle you overcome.</h4>
+    <p>- Celestine Chua</p>
 </div>
