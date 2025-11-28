@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</h4>
-    <p>- George Bernard Shaw</p>
+    <h4> Success is getting what you want... Happiness is wanting what you get.</h4>
+    <p>- Dale Carnegie</p>
 </div>
