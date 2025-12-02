@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form.</h4>
-    <p>- Paramahansa Yogananda</p>
+    <h4> Gratitude is the fairest blossom which springs from the soul.</h4>
+    <p>- Henry Ward Beecher</p>
 </div>
