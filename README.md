@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Gratitude is the fairest blossom which springs from the soul.</h4>
-    <p>- Henry Ward Beecher</p>
+    <h4> Creative endeavors are by their nature uncertain.</h4>
+    <p>- Robert Greene</p>
 </div>
