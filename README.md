@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> For the things we have to learn before we can do them, we learn by doing them.</h4>
-    <p>- Aristotle</p>
+    <h4> Fear is your worst enemy. Risk is your best friend.</h4>
+    <p>- Gurbaksh Chahal</p>
 </div>
