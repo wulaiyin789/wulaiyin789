@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Walking with a friend in the dark is better than walking alone in the light.</h4>
-    <p>- Helen Keller</p>
+    <h4> Be brave. Take risks. Nothing can substitute experience.</h4>
+    <p>- Paulo Coelho</p>
 </div>
