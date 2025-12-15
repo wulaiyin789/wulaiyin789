@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A dead thing can go with the stream, but only a living thing can go against it.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> Live as if you were to die tomorrow. Learn as if you were to live forever.</h4>
+    <p>- Mahatma Gandhi</p>
 </div>
