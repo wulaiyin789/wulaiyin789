@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The meaning of life is to find your gift. The purpose of life is to give it away.</h4>
-    <p>- Pablo Picasso</p>
+    <h4> Happiness comes when you believe in what you are doing, know what you are doing, and love what you are doing.</h4>
+    <p>- Brian Tracy</p>
 </div>
