@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What's the point in being smart enough to read, if everything you read makes you dumb?</h4>
-    <p>- C. Sean McGee</p>
+    <h4> Life is like a beautiful melody, only the lyrics are messed up.</h4>
+    <p>- Hans Christian Andersen</p>
 </div>
