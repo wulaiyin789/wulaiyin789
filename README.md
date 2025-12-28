@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I must also have a dark side if I am to be whole.</h4>
-    <p>- Carl Jung</p>
+    <h4> Fear, uncertainty, and discomfort are your compasses toward growth.</h4>
+    <p>- Celestine Chua</p>
 </div>
