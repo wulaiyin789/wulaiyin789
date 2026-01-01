@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Never do things others can do and will do if there are things others cannot do or will not do.</h4>
-    <p>- Amelia Earhart</p>
+    <h4> Do anything, but let it produce joy.</h4>
+    <p>- Walt Whitman</p>
 </div>
