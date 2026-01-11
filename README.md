@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do not use life to give life to death. Do not use death to bring death to life.</h4>
-    <p>- Zhuangzi</p>
+    <h4> Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.</h4>
+    <p>- Earl Nightingale</p>
 </div>
