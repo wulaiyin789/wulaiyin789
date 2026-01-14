@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Your time is limited, so don't waste it living someone elses. life.</h4>
-    <p>- Steve Jobs</p>
+    <h4> You don't know who is important to you until you actually lose them.</h4>
+    <p>- Mahatma Gandhi</p>
 </div>
