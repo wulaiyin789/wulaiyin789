@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You are the average of the five people you spend the most time with.</h4>
-    <p>- Jim Rohn</p>
+    <h4> Good things aren't supposed to just fall into your lap.</h4>
+    <p>- Audrey Hepburn</p>
 </div>
