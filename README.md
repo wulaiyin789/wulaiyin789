@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Do not take life too seriously. You will never get out of it alive.</h4>
-    <p>- Elbert Hubbard</p>
+    <h4> You can have it all. You just can't have it all at once. </h4>
+    <p>- Oprah Winfrey</p>
 </div>
