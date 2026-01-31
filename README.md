@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The more you are grateful for what you have the more you will have to be grateful for.  </h4>
-    <p>- Zig Ziglar</p>
+    <h4> Never settle for the crumbs of life.</h4>
+    <p>- Og Mandino</p>
 </div>
