@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Logic is like the sword - those who appeal to it shall perish by it.</h4>
-    <p>- Samuel Butler</p>
+    <h4> It always seems impossible until it's done.</h4>
+    <p>- Nelson Mandela</p>
 </div>
