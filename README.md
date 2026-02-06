@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't try to be young. Just open your mind. Stay interested in stuff.</h4>
-    <p>- Betty White</p>
+    <h4> Some people don't like change, but you need to embrace change if the alternative is disaster.</h4>
+    <p>- Elon Musk</p>
 </div>
