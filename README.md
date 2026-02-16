@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What worries you, masters you.</h4>
-    <p>- John Locke</p>
+    <h4> Circumstances rule men; men do not rule circumstances. </h4>
+    <p>- Herodotus</p>
 </div>
