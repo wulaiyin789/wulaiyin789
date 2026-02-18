@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Enjoy life. There's plenty of time to be dead.</h4>
-    <p>- Hans Christian Andersen</p>
+    <h4> A golden cage is still just a cage.</h4>
+    <p>- Anita Krizzan</p>
 </div>
