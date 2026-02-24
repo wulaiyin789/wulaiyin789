@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Small men think they are small; great men never know they are great. </h4>
-    <p>- Chinese Proverb</p>
+    <h4> Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time.</h4>
+    <p>- Thomas Jefferson</p>
 </div>
