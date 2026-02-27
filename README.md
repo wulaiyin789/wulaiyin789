@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> What people need and what they want may be very different.</h4>
-    <p>- Elbert Hubbard</p>
+    <h4> Learn from the rejection and turn it into an opportunity!</h4>
+    <p>- Mary Engelbreit</p>
 </div>
