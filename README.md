@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We are like islands in the sea, separate on the surface but connected in the deep.</h4>
-    <p>- William James</p>
+    <h4> The man who removes a mountain begins by carrying away small stones.</h4>
+    <p>- William Faulkner</p>
 </div>
