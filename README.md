@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Every day is an opportunity to a make a new happy ending.</h4>
-    <p>- Jonathan Swift</p>
+    <h4> When you're at the end of your rope, tie a knot and hold on.</h4>
+    <p>- Theodore Roosevelt</p>
 </div>
