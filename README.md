@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There is an essence of when you are fearless, you become more creative.</h4>
-    <p>- Gurbaksh Chahal</p>
+    <h4> Nature is pleased with simplicity. And nature is no dummy.</h4>
+    <p>- Isaac Newton</p>
 </div>
