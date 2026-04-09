@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The highest form of ignorance is when you reject something you don't know anything about. </h4>
-    <p>- Wayne Dyer</p>
+    <h4> Either write something worth reading or do something worth writing.</h4>
+    <p>- Benjamin Franklin</p>
 </div>
