@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If a thing is worth doing, it is worth doing badly.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> To avoid criticism, do nothing, say nothing, and be nothing.</h4>
+    <p>- Elbert Hubbard</p>
 </div>
