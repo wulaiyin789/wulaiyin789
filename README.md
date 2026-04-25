@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The measure of wisdom is how calm you are when facing any given situation.</h4>
-    <p>- Naval Ravikant</p>
+    <h4> Never confuse a single defeat with a final defeat.</h4>
+    <p>- F. Scott Fitzgerald</p>
 </div>
