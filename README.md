@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> How you think when you lose determines how long it will be until you win.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> Take interest and even delight in doing the small things well.</h4>
+    <p>- Jim Rohn</p>
 </div>
