@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question.</h4>
-    <p>- John Tukey</p>
+    <h4> Your dream has to be bigger than your fear.</h4>
+    <p>- Steve Harvey</p>
 </div>
