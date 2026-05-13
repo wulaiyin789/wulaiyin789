@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I know not all that may be coming, but be it what it will, I'll go to it laughing.</h4>
-    <p>- Herman Melville</p>
+    <h4> People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.</h4>
+    <p>- Andrew Carnegie</p>
 </div>
