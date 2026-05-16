@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You play the hand you're dealt. I think the game's worthwhile.  </h4>
-    <p>- Christopher Reeve</p>
+    <h4> One loyal friend is worth ten thousand relatives.</h4>
+    <p>- Euripides</p>
 </div>
