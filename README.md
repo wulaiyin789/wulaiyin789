@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Study logic and math, because once you've mastered them, you won't fear any book.</h4>
-    <p>- Naval Ravikant</p>
+    <h4> Inspire yourself to be great. Being good isn't good enough.</h4>
+    <p>- Gurbaksh Chahal</p>
 </div>
