@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</h4>
-    <p>- Og Mandino</p>
+    <h4> Happiness cannot be traveled to, owned, earned, worn or consumed.</h4>
+    <p>- Denis Waitley</p>
 </div>
