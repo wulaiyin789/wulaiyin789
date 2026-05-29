@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Happiness cannot be traveled to, owned, earned, worn or consumed.</h4>
-    <p>- Denis Waitley</p>
+    <h4> Find the game where you can win, and then commit your life to playing it; and play to win.</h4>
+    <p>- Robert Kiyosaki</p>
 </div>
