@@ -20,7 +20,7 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 </li>
 </li>
 <li>
-<p>📙 Check out my <a href="https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V11.pdf">resume</a>.</p>
+<p>📙 Check out my <a href="https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V12.pdf">resume</a>.</p>
 </li>
 <li>
 <p>👨‍💻 Most of my projects are available on <a href="https://github.com/wulaiyin789">Github</a>.</p>

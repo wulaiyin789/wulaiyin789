@@ -55,7 +55,7 @@ const factsConfigs = [
   `👾 I’m currently working on [Viu](https://www.viu.com).`,
   `✍️ Working about **creating applications**, **bug fixing**, and **sourcing**.`,
   `🤔 Learning and trying to develop any application within my knowledge.`,
-  `📙 Check out my [resume](https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V11.pdf)READCnev👨‍🔧.`,
+  `📙 Check out my [resume](https://peter-portfolio.vercel.app/pdf/CV_Peter_HK_V12.pdf)READCnev👨‍🔧.`,
   `👨‍💻 Most of my projects are available on [Github](https://github.com/wulaiyin789).`,
   `🎉 Fun Fact: 私の名前はピーターです。どうぞよろしくお願いします。`
 ];
