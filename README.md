@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If we know how to adapt, we end up being superior.</h4>
-    <p>- Ming-Dao Deng</p>
+    <h4> Every moment is a fresh beginning.</h4>
+    <p>- T.S. Eliot</p>
 </div>
