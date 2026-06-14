@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is during our darkest moments that we must focus to see the light.</h4>
-    <p>- Aristotle</p>
+    <h4> Sometimes it is harder to deprive oneself of a pain than of a pleasure.</h4>
+    <p>- F. Scott Fitzgerald</p>
 </div>
