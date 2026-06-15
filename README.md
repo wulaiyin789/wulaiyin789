@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Sometimes it is harder to deprive oneself of a pain than of a pleasure.</h4>
-    <p>- F. Scott Fitzgerald</p>
+    <h4> Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!</h4>
+    <p>- Alfred Adler</p>
 </div>
