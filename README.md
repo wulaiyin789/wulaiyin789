@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Love is the energy of life.</h4>
-    <p>- Robert Browning</p>
+    <h4> An investment in knowledge pays the best interest.</h4>
+    <p>- Benjamin Franklin</p>
 </div>
