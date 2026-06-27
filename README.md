@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is your attitude, not your aptitude, that determines your altitude.</h4>
-    <p>- Zig Ziglar</p>
+    <h4> Whatever is begun in anger, ends in shame.</h4>
+    <p>- Benjamin Franklin</p>
 </div>
