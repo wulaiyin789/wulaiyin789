@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being.</h4>
-    <p>- Anita Krizzan</p>
+    <h4> The weak can never forgive. Forgiveness is the attribute of the strong.</h4>
+    <p>- Mahatma Gandhi</p>
 </div>
