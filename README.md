@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You can never cross the ocean unless you have the courage to lose sight of the shore.</h4>
-    <p>- Christopher Columbus</p>
+    <h4> One must be deeply aware of the impermanence of the world.</h4>
+    <p>- Dogen</p>
 </div>
