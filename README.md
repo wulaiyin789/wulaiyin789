@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I am not absentminded. It is the presence of mind that makes me unaware of everything else.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</h4>
+    <p>- Kamal Ravikant</p>
 </div>
