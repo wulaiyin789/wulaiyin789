@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> People inspire you, or they drain you. Pick them wisely.</h4>
-    <p>- Les Brown</p>
+    <h4> Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</h4>
+    <p>- G.I. Gurdjieff</p>
 </div>
