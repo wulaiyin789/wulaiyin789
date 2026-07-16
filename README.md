@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The way to love anything is to realize that it may be lost.</h4>
-    <p>- Gilbert Chesterton</p>
+    <h4> There is no such thing as a great talent without great willpower.</h4>
+    <p>- Honore de Balzac</p>
 </div>
