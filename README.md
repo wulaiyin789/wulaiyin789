@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Empty your mind, be formless, shapeless, like water.</h4>
-    <p>- Bruce Lee</p>
+    <h4> Integrity is telling myself the truth. And honesty is telling the truth to other people.</h4>
+    <p>- Spencer Johnson</p>
 </div>
