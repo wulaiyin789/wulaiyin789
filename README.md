@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you want the best the world has to offer, offer the world your best.</h4>
-    <p>- Neale Donald Walsch</p>
+    <h4> The world only exists in your eyes. You can make it as big or as small as you want.</h4>
+    <p>- F. Scott Fitzgerald</p>
 </div>
