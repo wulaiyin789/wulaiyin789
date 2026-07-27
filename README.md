@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success.</h4>
-    <p>- Robert Kiyosaki</p>
+    <h4> Plants grow weak without wind.</h4>
+    <p>- Maxime Lagace</p>
 </div>
