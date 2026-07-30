@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It is not enough to win a war; it is more important to organize the peace.</h4>
-    <p>- Aristotle</p>
+    <h4> Don't wish it were easier, wish you were better.</h4>
+    <p>- Jim Rohn</p>
 </div>
