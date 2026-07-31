@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't wish it were easier, wish you were better.</h4>
-    <p>- Jim Rohn</p>
+    <h4> Don't let someone elses. opinion become your reality.</h4>
+    <p>- Les Brown</p>
 </div>
