@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> People seldom do what they believe in. They do what is convenient, then repent.</h4>
-    <p>- Bob Dylan</p>
+    <h4> Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else.</h4>
+    <p>- Les Brown</p>
 </div>
