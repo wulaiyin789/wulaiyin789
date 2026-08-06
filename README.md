@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything.</h4>
-    <p>- Sydney Smith</p>
+    <h4> We meet ourselves time and again in a thousand disguises on the path of life.</h4>
+    <p>- Carl Jung</p>
 </div>
