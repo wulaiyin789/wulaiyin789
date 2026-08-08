@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Many people spend more time looking at their failures than focusing on their successes.</h4>
-    <p>- Lolly Daskal</p>
+    <h4> It is in changing that we find purpose.</h4>
+    <p>- Heraclitus</p>
 </div>
