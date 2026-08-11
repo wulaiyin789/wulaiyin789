@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Always try to be a little kinder than necessary.</h4>
-    <p>- James Matthew Barrie</p>
+    <h4> It's the unknown we fear when we look upon death and darkness, nothing more.</h4>
+    <p>- Albus Dumbledore</p>
 </div>
