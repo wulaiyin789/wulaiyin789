@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!</h4>
-    <p>- Robert Kiyosaki</p>
+    <h4> Remember that sometimes not getting what you want is a wonderful stroke of luck.</h4>
+    <p>- Dalai Lama</p>
 </div>
