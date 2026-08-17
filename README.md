@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Hope is a waking dream.</h4>
-    <p>- Aristotle</p>
+    <h4> We will act consistently with our view of who we truly are, whether that view is accurate or not.</h4>
+    <p>- Tony Robbins</p>
 </div>
