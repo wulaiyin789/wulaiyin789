@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> There is no significance in life without struggle.</h4>
-    <p>- Lolly Daskal</p>
+    <h4> The one who praises you is a thief. The one who criticizes you is your true friend.</h4>
+    <p>- Seungsahn</p>
 </div>
