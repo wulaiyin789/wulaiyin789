@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Is it really possible to tell someone else what one feels?</h4>
-    <p>- Leo Tolstoy</p>
+    <h4> Muddy water is best cleared by leaving it alone.</h4>
+    <p>- Alan Watts</p>
 </div>
