@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Muddy water is best cleared by leaving it alone.</h4>
-    <p>- Alan Watts</p>
+    <h4> If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems.</h4>
+    <p>- Robert Kiyosaki</p>
 </div>
