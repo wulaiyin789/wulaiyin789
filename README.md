@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Some people dream of success, while others wake up and work hard at it.</h4>
-    <p>- Napoleon Hill</p>
+    <h4> Life has more imagination than we carry in our dreams.</h4>
+    <p>- Christopher Columbus</p>
 </div>
