@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</h4>
-    <p>- Virginia Woolf</p>
+    <h4> To be prepared is half the victory.</h4>
+    <p>- Miguel de Cervantes</p>
 </div>
