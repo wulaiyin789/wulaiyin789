@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> To be prepared is half the victory.</h4>
-    <p>- Miguel de Cervantes</p>
+    <h4> If someone betrays you once, it's their fault; if they betray you twice, it's your fault.</h4>
+    <p>- Eleanor Roosevelt</p>
 </div>
