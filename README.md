@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Make your mind your own business.</h4>
-    <p>- Jack Butcher</p>
+    <h4> It is better to fail in originality than to succeed in imitation.</h4>
+    <p>- Herman Melville</p>
 </div>
