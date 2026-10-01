@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you want something then you lose everything. If you don't want anything then you already have everything.</h4>
-    <p>- Seungsahn</p>
+    <h4> Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</h4>
+    <p>- Nicolas Chamfort</p>
 </div>
