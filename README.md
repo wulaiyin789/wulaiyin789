@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions.</h4>
-    <p>- Steve Maraboli</p>
+    <h4> A diamond is a piece of charcoal that handled stress exceptionally well.</h4>
+    <p>- Unknown</p>
 </div>
