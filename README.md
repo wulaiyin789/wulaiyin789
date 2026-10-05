@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</h4>
-    <p>- Chinese Proverb</p>
+    <h4> It's very strange that the people you love are often the people you're most cruel to.</h4>
+    <p>- Kenneth Branagh</p>
 </div>
