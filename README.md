@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The moment you stop to think about whether you love someone, you've already stopped loving that person forever.</h4>
-    <p>- Carlos Ruiz Zafon</p>
+    <h4> Do not go where the path may lead, go instead where there is no path and leave a trail.</h4>
+    <p>- Ralph Waldo Emerson</p>
 </div>
