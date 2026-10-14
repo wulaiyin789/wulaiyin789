@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Patience is a bitter plant, but its fruit is sweet.</h4>
-    <p>- Chinese Proverb</p>
+    <h4> A Penny Saved is a Penny Earned</h4>
+    <p>- Benjamin Franklin</p>
 </div>
