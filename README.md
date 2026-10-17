@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> We are born from a quiet sleep, and we die to a calm awakening</h4>
-    <p>- Zhuangzi</p>
+    <h4> Great ones are willing to get burned time and again as they sharpen their swords in the fire.</h4>
+    <p>- Josh Waitzkin</p>
 </div>
