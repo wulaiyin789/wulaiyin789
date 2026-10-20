@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience.</h4>
-    <p>- Eleanor Roosevelt</p>
+    <h4> We must cultivate our garden.</h4>
+    <p>- Voltaire</p>
 </div>
