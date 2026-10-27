@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> You are always your own best guru, your own best teacher, the answers are always inside you.</h4>
-    <p>- Sathya Sai Baba</p>
+    <h4> Our greatest fears lie in anticipation.</h4>
+    <p>- Honore de Balzac</p>
 </div>
