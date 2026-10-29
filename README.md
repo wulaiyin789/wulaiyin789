@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The more you extend kindness to yourself, the more it will become your automatic response to others.</h4>
-    <p>- Wayne Dyer</p>
+    <h4> In the long run, the sharpest weapon of all is a kind and gentle spirit.</h4>
+    <p>- Anne Frank</p>
 </div>
