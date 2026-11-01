@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Don't waste your time in anger, regrets, worries, and grudges. Life is too short to be unhappy.</h4>
-    <p>- Roy T. Bennett</p>
+    <h4> Every strike brings me closer to the next home run.</h4>
+    <p>- Babe Ruth</p>
 </div>
