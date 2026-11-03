@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Nature loves to hide.</h4>
-    <p>- Heraclitus</p>
+    <h4> Action is the foundational key to all success.</h4>
+    <p>- Pablo Picasso</p>
 </div>
