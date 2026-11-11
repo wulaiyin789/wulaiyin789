@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Supreme excellence consists of breaking the enemy's resistance without fighting.</h4>
-    <p>- Sun Tzu</p>
+    <h4> Evil is whatever distracts.</h4>
+    <p>- Franz Kafka</p>
 </div>
