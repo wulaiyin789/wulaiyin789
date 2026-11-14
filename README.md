@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> If you are far from the enemy, make him believe you are near.</h4>
-    <p>- Sun Tzu</p>
+    <h4> The fear of death follows from the fear of life. A man who lives fully is prepared to die at any time.</h4>
+    <p>- Mark Twain</p>
 </div>
