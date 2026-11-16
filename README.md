@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Men trust their ears less than their eyes.</h4>
-    <p>- Herodotus</p>
+    <h4> Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h4>
+    <p>- Dale Carnegie</p>
 </div>
