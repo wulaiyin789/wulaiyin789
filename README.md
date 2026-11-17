@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Most of the important things in the world have been accompanied by people who have kept on trying when there seemed to be no hope at all.</h4>
-    <p>- Dale Carnegie</p>
+    <h4> The first thing you learn in life is you're a fool. The last thing you learn in life is you're the same fool.</h4>
+    <p>- Ray Bradbury</p>
 </div>
