@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> The sun shines upon good and bad alike.</h4>
-    <p>- Hans Christian Andersen</p>
+    <h4> When something is important enough, you do it even if the odds are not in your favor.</h4>
+    <p>- Elon Musk</p>
 </div>
