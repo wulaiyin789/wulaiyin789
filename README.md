@@ -50,6 +50,6 @@ I'm currently a software engineer **[@viu](https://www.viu.com)** based in 🌁 
 <img src="https://github-readme-stats.vercel.app/api?username=wulaiyin789&amp;show_icons=true&amp;count_private=true" alt="wulaiyin789" />
 
 <div class="container">
-    <h4> Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage.</h4>
-    <p>- Celestine Chua</p>
+    <h4> The most important single ingredient in the formula of success is knowing how to get along with people.</h4>
+    <p>- Theodore Roosevelt</p>
 </div>
